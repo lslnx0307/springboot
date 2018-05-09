@@ -1,2 +1,7 @@
-say: niganma
-age: 89
+lsl:
+  say: ni zai gan ma ?
+  age: 18
+
+spring:
+  profiles:
+    active: dev

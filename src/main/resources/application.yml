@@ -1,4 +1,0 @@
-spring:
-  profiles:
-    say: 1212222
-    age: 38

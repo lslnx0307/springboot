@@ -19,10 +19,10 @@ import java.util.Map;
 @RequestMapping("/index")
 public class IndexController {
 
-    @Value("${age}")
+    @Value("${lsl.age}")
     private int age;
 
-    @Value("${say}")
+    @Value("${lsl.say}")
     private String say;
 
 
